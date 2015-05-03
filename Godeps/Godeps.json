@@ -1,0 +1,20 @@
+{
+	"ImportPath": "github.com/go_web_server",
+	"GoVersion": "go1.3.3",
+	"Deps": [
+		{
+			"ImportPath": "github.com/labstack/echo",
+			"Comment": "v0.0.11-12-gab1e479",
+			"Rev": "ab1e479adac1bde81caf6f7ee895de16a977596f"
+		},
+		{
+			"ImportPath": "github.com/labstack/gommon/color",
+			"Comment": "v0.0.1-6-g689263a",
+			"Rev": "689263a45deefb73a1966a5572526678af838695"
+		},
+		{
+			"ImportPath": "github.com/mattn/go-colorable",
+			"Rev": "d67e0b7d1797975196499f79bcc322c08b9f218b"
+		}
+	]
+}
